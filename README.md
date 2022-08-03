@@ -1,6 +1,9 @@
 # Reinforcement Learning in a nutshell
 A high-level preview over main concepts of RL and its applications using Gym environments and stable_baselines3
 ![alt text](https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/envs.png?style=centerme)
+<p align="center">
+  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/envs.png" />
+</p>
 
 
 ## GYM
