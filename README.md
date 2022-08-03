@@ -1,13 +1,13 @@
 # Reinforcement Learning in a nutshell
 A high-level preview over main concepts of RL and its applications using Gym environments and stable_baselines3
 <p align="center">
-  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/envs.png" />
+  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/envs.png" style="width:400px;"/>
 </p>
 
 
 ## GYM
 <p align="center">
-  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/gym.jpg", style="width:200px;"/>
+  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/gym.jpg", style="width:300px;"/>
 </p>
 
 Gym is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API. Since its release, Gym's API has become the field standard for doing this.
@@ -16,7 +16,7 @@ Gym documentation website is at https://www.gymlibrary.ml/, and you can propose 
 
 ## Stable Baseline3
 <p align="center">
-  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/stable.png", style="width:200px;" />
+  <img src="https://github.com/EssamMohamedAbo-ElMkarem/Reinforcement-Learning-in-a-nutshell/blob/main/images/stable.png", style="width:300px;" />
 </p>
 Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. It is the next major version of Stable Baselines.
 
